@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
+
+👋 Hi there! I’m Ritik Karir, a passionate data analyst with 2+ years of experience in the field. My journey began when I discovered the magic of turning raw data into actionable insights. From wrangling messy datasets to creating interactive visualizations, I thrive on solving real-world problems.
 
 [Link to another page](./another-page.html).
 
