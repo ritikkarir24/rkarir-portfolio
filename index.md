@@ -13,6 +13,6 @@ The model generates embeddings based on the text within the document, enabling i
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ritikkarir24/Conversational-AI-for-PDF-Interaction)
 
-![Conversational-AI for PDF Interaction](https://github.com/ritikkarir24/rkarir-portfolio/blob/master/img/OIG1.jpeg "banner")
+
 
 
