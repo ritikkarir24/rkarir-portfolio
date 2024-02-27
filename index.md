@@ -16,17 +16,8 @@ This project presents a unique approach to interacting with PDF documents using 
 
 The model generates embeddings based on the text within the document, enabling it to provide accurate and contextually relevant responses to user queries. This innovative application of AI technology transforms the way users interact with PDFs, making the process more intuitive and efficient.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ritikkarir24/Conversational-AI-for-PDF-Interaction)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 
 
